@@ -6,7 +6,7 @@
 
 body {
     font-family: Arial, sans-serif;
-    background: #f5f5f5;
+    background: white;
 }
 
 #conteneur {
@@ -15,7 +15,7 @@ body {
 }
 
 #entete {
-    background: #2980b9;
+    background: darkslateblue;
     color: white;
     padding: 25px;
     text-align: center;
@@ -23,7 +23,7 @@ body {
 }
 
 #menu {
-    background: #5294c4;
+    background: cornflowerblue;
     width: 280px;
     padding: 20px;
     float: left;
@@ -103,7 +103,7 @@ body {
 }
 
 #piedDePage {
-    background: #2980b9;
+    background: cornflowerblue;
     color: white;
     padding: 20px;
     text-align: center;
