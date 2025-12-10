@@ -59,7 +59,7 @@ body {
 }
 
 .bouton-commander {
-    background: #82c341;
+    background: limegreen;
     color: white;
     padding: 15px 20px;
     border-radius: 10px;
@@ -67,6 +67,10 @@ body {
     font-weight: bold;
     width: 100%;
     margin-top: 10px;
+}
+
+.bouton-commander:active {
+    background: deeppink;
 }
 
 #contenu {
